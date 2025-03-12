@@ -1,11 +1,14 @@
 /* Step 1: Style the body */
 body {
-    /* Your code here */
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 20px;
+  width: 200px;
   }
   
   /* Step 2: Style the container */
   .container {
-    /* Your code here */
+    
   }
   
   /* Step 3: Style the timer display */
