@@ -4,29 +4,38 @@ body {
   text-align: center;
   padding: 20px;
   width: 200px;
+  background-color: aquamarine;
   }
   
   /* Step 2: Style the container */
   .container {
-    
+    padding: 20px;
+    text-align: center;
   }
   
   /* Step 3: Style the timer display */
   #timer {
-    /* Your code here */
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
   }
   
   /* Step 4: Style the buttons */
   button {
-    /* Your code here */
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
   }
   
   /* Step 5: Add hover effects to the buttons */
   button:hover {
-    /* Your code here */
+    box-shadow: 0 16px 24px 0 rgba(0,0,0,0.2);
+    outline-width: 20px;
+    transition-duration: 1s;
+    background-color: #1a741e;
   }
     
-    /* Step 5: Add hover effects to the buttons */
-    button:hover {
-      /* Your code here */
-    }
